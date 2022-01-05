@@ -1,3 +1,3 @@
-This is how to use the program
+# This is how to use the program
 ---------------------------------
 awesome
